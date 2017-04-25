@@ -136,6 +136,8 @@ pre, code {
 pre img {
   background-color: #fff;
   display: block;
+  height: 80%;
+  width: 80%;
 }
 
 code a, pre a {
