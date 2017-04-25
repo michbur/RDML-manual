@@ -138,6 +138,7 @@ pre img {
   display: block;
   height: 80%;
   width: 80%;
+  object-fit: contain;
 }
 
 code a, pre a {
